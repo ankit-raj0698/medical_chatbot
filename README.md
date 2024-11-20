@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-
 # Llama2 Medical Bot
 
 The Llama2 Medical Bot is a powerful tool designed to provide medical information by answering user queries using state-of-the-art language models and vector stores. This README will guide you through the setup and usage of the Llama2 Medical Bot.
@@ -95,9 +92,3 @@ Contributions to the Llama2 Medical Bot are welcome! If you'd like to contribute
 5. Your pull request will be reviewed, and if approved, it will be merged into the main codebase.
 
 For more information on how to use, configure, and extend the Llama2 Medical Bot, please refer to the Langchain documentation or contact the project maintainers.
-
-Happy coding with Llama2 Medical Bot! 🚀
-=======
-# medical_chatbot
-Medical Chatbot using Llama 2
->>>>>>> 9d10ff41d5941b29ba90fb001c0c5124a7e3a6c3
